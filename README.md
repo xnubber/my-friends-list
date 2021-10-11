@@ -1,5 +1,6 @@
 # My-friends-list
 A simple virtual friends list
+https://xnubber.github.io/my-friends-list/
 ![imge](https://github.com/xnubber/my-friends-list/blob/main/My%20friends%20list.gif)
 
 ## Features
